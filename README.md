@@ -165,6 +165,11 @@ together, to do public speaking, to show personality.  But all that takes a huge
 of energy from me.  If you see me hit a wall and slip out of an event or dinner or party, 
 just know that I ran out of gas and needed some alone time to recharge.  Sorry.
 
+Even though I am an introvert I've learned that I learn so much from spending time with 
+smart people.  I love to hang out with my teams, especially teams from former companies
+who still get together often.  Customers and partners too.  It takes energy, but learning is
+fun.  And so worth it.
+
 
 ## My Interests and Projects
 
