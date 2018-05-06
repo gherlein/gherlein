@@ -61,7 +61,8 @@ play loose with the truth.  Especially bad news.  It's like cheap wine:  it does
 
 I am also heavily biased towards action.  A less nice way to say that is that I can be 
 impatient.  I try to be reasonable, but sometimes I'm not.  Please say something if you 
-think I'm too impatient.  As I said above, facts matter.  I often don't have all the facts I need.  I am very good at making decisions and moving foward with lots of ambiguity and lack 
+think I'm too impatient.  As I said above, facts matter.  I often don't have all the facts 
+I need.  I am very good at making decisions and moving foward with lots of ambiguity and lack 
 of facts.  Most of the time that's a strength.  Sometimes not. 
 
 One of the side effects of this is that you need to speak up.  If you don't you may keep
