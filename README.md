@@ -33,8 +33,8 @@ we know what we are building and why, and that we have all that we need to do it
 obstacles out of the way.  I believe that "trust but verify" is good policy all around,
 especially in complex systems.  I adhere to DevOps principles - read some about it 
 [here](https://www.linkedin.com/pulse/how-do-devops-greg-herlein/).  I believe that you 
-have to know what "normal" looks like and you have to understand what your definition of 
-done is.  Fail those and you will have more work and lots more stress.  
+have to know what "normal" looks like and you have to understand what your "definition of 
+done" is.  Fail to define those and you will have more work and lots more stress.  
 
 I expect a LOT of myself and those who work with and around me. I think teams can, in
 general, do more than they think they can.  But I strongly believe that there's a huge 
@@ -71,10 +71,6 @@ You should.  I am no different than a lot of experienced Engineers:  I have a st
 personality.  Don't let that quiet you.  I was just like you years ago.  Speak up, even if it's 
 just to ask questions.
 
-I use IM a lot as well, in bursts.  My teams have used Slack a lot, of course.  Cisco uses
-Jabber a lot.  I loathe Spark (much to the unhappiness of my employer).  Lately I am
-using Keybase a lot.  It's a good chat tool and it lets me easily share encrypted files.
-
 
 ### My Working Style
 
@@ -105,6 +101,10 @@ be expected to be serviced fairly quickly.  Email?  A day or so, generally.  Tha
 expect, and that's what you can expect from me.  If it's on fire, call me.  That's what 
 phones were invented for.  
 
+I use IM a lot as well, in bursts.  My teams have used Slack a lot, of course.  Cisco uses
+Jabber a lot.  I loathe Spark (much to the unhappiness of my employer).  Lately I am
+using Keybase a lot.  It's a good chat tool and it lets me easily share encrypted files.
+
 
 ### Diversity
 
@@ -118,14 +118,20 @@ my teams.  This is not just because it's the right thing to do (it is) but becau
 years of experience teams with women get more done and are happier than teams without.  It's 
 good business.  And it's the right thing to do.
 
-### Criticism
+### Praise and Criticism
 
 I strongly believe that solutions deserve intense scrutiny and valid critcism.  People, not so
 much.  Behavior yes.  People no.  I don't tolerate discrimination even if it's indirect.
 
-That said, if you propose something that you have not thought through you can expect my teams to 
-be pretty vocal about it.  Steel is not forged in temperate heat: the best steel comes from
-a very hot fire.  Ideas and designs are no different.
+That said, if you propose something that you have not thought through you can expect my teams
+and I to be pretty vocal about it.  Steel is not forged in temperate heat: the best steel 
+comes from a very hot fire.  Ideas and designs are no different.
+
+All that said, I believe in the old adage "Praise in public and criticize in private."  I
+strongly celebrate successes and I love to do that publically.  I actually think that most
+Engineers really like the admiration of their peers.  That's why many contribute to open
+source.  Showcasing what people build is incredibly powerful.
+
 
 ### Most Important Traits for My Team
 
