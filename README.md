@@ -141,7 +141,7 @@ And it's hard to test for in interviews.  Some folks have OK judgement normally 
 totally vanishes under stress, or when tired.  Some folks just seem to make good decisions
 no matter what.  Those are keepers.  Folks don't need to always be right.  It's not 
 about being right.  It's "did you make the best decision you could with the information
-you had at the time."  
+you had at the time."  More importantly:  did you make a decision at the right time?
 
 After judgement comes curiosity.  If you are a learner, you probably have the right mindset
 to be adaptable.  The only constant is change.  Learners adapt.  
