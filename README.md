@@ -180,7 +180,8 @@ circuits.  I do home repair on my very old house.
 I'm better at starting projects than finishing them.  I have a dozen mostly done things on
 my workbench at any given time.  This is because I get the value out of LEARNING by doing,
 not out of FINISHING things and then using them.  This is not universally true, but 
-more true than not.  
+more true than not.  This is also probably why I push so hard at work to SHIP IT.  I know
+that my personal tendency would be to keep tweaking it.    
 
 
 ## More about Me
