@@ -69,7 +69,7 @@ me from having facts I need.  I find that Senior Engineers have no problem with 
 less experienced Engineers can be intimidated, or shy, or just careful and don't speak up.
 You should.  I am no different than a lot of experienced Engineers:  I have a strong
 personality.  Don't let that quiet you.  I was just like you years ago.  Speak up, even if it's 
-just to ask questions.
+just to ask questions. I promise that I don't bite.
 
 
 ### My Working Style
@@ -177,5 +177,20 @@ not out of FINISHING things and then using them.  This is not universally true, 
 more true than not.  
 
 
+## More about Me
+
+I live in San Francisco in a really old house in Cow Hollow.  I've been here for 20 years 
+which makes me a native to some.  My wife is really a native.  She grew up here and went to 
+the same school her Mom did.
+
+I've been really lucky to have a lot of really good jobs.  Once upon a time I was in the US
+Navy and served in Submarines.  I was on the USS Richard B. Russell (SSN-687).  I won some
+awards and the ship won some major awards for things I cannot talk about.  Sorry.  I also
+got to work with Woods Hole Oceanographic Institute (WHOI) on the Research Vessel Atlantis.
+We carried the mini-submarine Alvin.  That was a really fun job.
+
+I've gotten to write code and build systems and teams across several generations of technology.  
+The more it changes the more it stays the same.  If you really are interested in all that I've
+done you should check out my [LinkedIn profile](https://www.linkedin.com/in/gherlein/).
 
 
