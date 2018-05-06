@@ -76,12 +76,12 @@ just to ask questions. I promise that I don't bite.
 ### My Working Style
 
 I use a lot of async communication (especially email) because I can multi-task well 
-(mostly) and my life often has more meetings than I wish I had.  Some people like this.  
-Some need more face to face time with me.  Speak up about what you need.  I generally try 
+(mostly) and my life often has more meetings than I wish I had.  Some people like this.Some  
+need more face to face time with me.  Speak up about what you need.  I generally try 
 to do 1:1 meetings for 30 minutes once a week with my direct reports.  I am terrible 
 about this.  I am comfortable with a flexible schedule that changes constantly.  
-This leads me to not be as good as I want to be keeping 1:1 meetings.  Speak up.  
-Don't let me off the hook.  These times are important to both of us. I don't want these to be
+This leads me to not be as good as I want to be keeping 1:1 meetings.  Speak up.  Don't 
+let me off the hook.  These times are important to both of us. I don't want these to be
 status meetings.  Please think of things you want to talk about.  I will usually have some
 themes to talk about.
 
@@ -148,8 +148,8 @@ After judgement comes curiosity.  If you are a learner, you probably have the ri
 to be adaptable.  The only constant is change.  Learners adapt.  
 
 After that comes being a maker.  Makers make things.  It does not have to be software. It 
-might be sewing.  Or metalsmithing.  Or pottery.  Or robots.  Or cooking.  Or poetry.  
-It's something.  In my experience the best Engineers create things.  It's a trait that 
+might be sewing.  Or metalsmithing.  Or pottery.  Or robots.  Or cooking.  Or poetry. Make 
+something.  In my experience the best Engineers create things.  It's a trait that 
 goes well beyond fingers on keyboard with an open editor.
 
 
