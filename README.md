@@ -76,8 +76,8 @@ just to ask questions. I promise that I don't bite.
 ### My Working Style
 
 I use a lot of async communication (especially email) because I can multi-task well 
-(mostly) and my life often has more meetings than I wish I had.  Some people like this. Some  
-need more face to face time with me.  Speak up about what you need.  I generally try 
+(mostly) and my life often has more meetings than I wish I had.  Some people like this. Some need 
+more face to face time with me.  Speak up about what you need.  I generally try 
 to do 1:1 meetings for 30 minutes once a week with my direct reports.  I am comfortable with a 
 flexible schedule that changes constantly.  This means our 1:1 schedule may shift around
 a but.  If that does not work for you, speak up.  These times are important to both of us. I 
