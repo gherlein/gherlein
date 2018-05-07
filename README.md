@@ -116,18 +116,21 @@ team of about the same age all from the same college may LOOK diverse but might 
 be.  Note that I am especially looking to increase the number of qualified female Engineers on
 my teams.  This is not just because it's the right thing to do (it is) but because in my 
 years of experience teams with women get more done and are happier than teams without.  It's 
-good business.  And it's the right thing to do.
+good business.  And it's the right thing to do.  I have a daughter.  I've seen how biases 
+work against girls in the educational system.  I've seen it in the workplace.  I do all I can
+to be a positive force for change.
 
 ### Praise and Criticism
 
-I strongly believe that solutions deserve intense scrutiny and valid critcism.  People, not so
-much.  Behavior yes.  People no.  I don't tolerate discrimination even if it's indirect.
+I strongly believe that proposed solutions deserve intense scrutiny and valid critcism.  People, not so
+much.  Behavior yes.  People no.  Too often I see criticism of a person actually be direct or biased
+discrimination.  I don't tolerate discrimination even if it's indirect.  
 
 That said, if you propose something that you have not thought through you can expect my teams
 and I to be pretty vocal about it.  Steel is not forged in temperate heat: the best steel 
 comes from a very hot fire.  Ideas and designs are no different.
 
-All that said, I believe in the old adage "Praise in public and criticize in private."  I strongly 
+I believe in the old adage "Praise in public and criticize in private."  I strongly 
 celebrate successes and I love to do that publically.  I actually think that most
 Engineers really like the admiration of their peers.  That's why many contribute to open
 source.  Showcasing what people build is incredibly powerful.
@@ -144,24 +147,26 @@ about being right.  It's "did you make the best decision you could with the info
 you had at the time."  More importantly:  did you make a decision at the right time?
 
 After judgement comes curiosity.  If you are a learner, you probably have the right mindset
-to be adaptable.  The only constant is change.  Learners adapt.  
+to be adaptable.  The only constant is change.  Learners adapt.  Tomorrow's technology is
+about to hit us in the face.  Can you learn how to use it today?
 
 After that comes being a maker.  Makers make things.  It does not have to be software. It 
-might be sewing.  Or metalsmithing.  Or pottery.  Or robots.  Or cooking.  Or poetry. Make 
-something.  In my experience the best Engineers create things.  It's a trait that 
-goes well beyond fingers on keyboard with an open editor.
+might be sewing.  Or metalsmithing.  Or pottery.  Or robots.  Or glassblowing.  Or cooking.  Or 
+poetry.  In my experience the best Engineers create things.  It's a trait that 
+goes well beyond fingers on keyboard with an open editor.  Try it.  It will make you a better
+Engineer.
 
 One thing that does not work for me is a sense of "that isn't my job."  There's no "I" in team, 
 as they say, and sometimes everyone has to do things they don't like.  I try to align
 the work to the skills and desires, but a highly functioning team is one where everyone
-pitches in and gets it done.
+pitches in and gets it done.  The most important thing is to "ship it."
 
 
 ## My Personality - Real and Apparent
 
 I am told I come across as an extrovert.  Nothing could be farther from the truth.  I am 
 a died in the wool introvert.  I love to work alone, curl up with a good book or cuddle on the
-couch with my wife and watch a good movie.  I don't like to go out, or to parties, or even
+couch with my wife and watch a good movie.  I generally don't like to go out, or to parties, or even
 walk down a crowded street.
 
 That said, when I decided to manage teams I had to learn how humans worked.  And that meant
@@ -198,7 +203,8 @@ I've been really lucky to have a lot of really good jobs.  Once upon a time I wa
 Navy and served in Submarines.  I was on the USS Richard B. Russell (SSN-687).  I won some
 awards and the ship won some major awards for things I cannot talk about.  Sorry.  I also
 got to work with Woods Hole Oceanographic Institute (WHOI) on the Research Vessel Atlantis.
-We carried the mini-submarine Alvin.  That was a really fun job.
+We carried the mini-submarine Alvin.  That was a really fun job.  And I got to ship some really nice
+software with teams I'm really proud to have been a part of.  I like that.
 
 I've had the pleasure of writing code and building systems and teams across several generations 
 of technology.  The more it changes the more it stays the same.  It's still what I want to do every day.  If you really 
