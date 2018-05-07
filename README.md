@@ -76,7 +76,7 @@ just to ask questions. I promise that I don't bite.
 ### My Working Style
 
 I use a lot of async communication (especially email) because I can multi-task well 
-(mostly) and my life often has more meetings than I wish I had.  Some people like this.Some  
+(mostly) and my life often has more meetings than I wish I had.  Some people like this. Some  
 need more face to face time with me.  Speak up about what you need.  I generally try 
 to do 1:1 meetings for 30 minutes once a week with my direct reports.  I am comfortable with a 
 flexible schedule that changes constantly.  This means our 1:1 schedule may shift around
@@ -111,8 +111,8 @@ using Keybase a lot.  It's a good chat tool and it lets me easily share encrypte
 Monocultures have blind spots.  Diversity leads to better results for many reasons, but one 
 of them is that different people bring different viewpoints to a problem and solutions tend
 to be better on diverse teams.  I've seen this for my whole career.  Beware:  diversity means
-more than skin color or sex.  It also means age, culture, socioeconomic background and more.  
-A whole team of about the same age all from the same college may LOOK diverse but might not 
+more than skin color or sex.  It also means age, culture, socioeconomic background and more. A whole 
+team of about the same age all from the same college may LOOK diverse but might not 
 be.  Note that I am especially looking to increase the number of qualified female Engineers on
 my teams.  This is not just because it's the right thing to do (it is) but because in my 
 years of experience teams with women get more done and are happier than teams without.  It's 
@@ -127,8 +127,8 @@ That said, if you propose something that you have not thought through you can ex
 and I to be pretty vocal about it.  Steel is not forged in temperate heat: the best steel 
 comes from a very hot fire.  Ideas and designs are no different.
 
-All that said, I believe in the old adage "Praise in public and criticize in private."  I
-strongly celebrate successes and I love to do that publically.  I actually think that most
+All that said, I believe in the old adage "Praise in public and criticize in private."  I strongly 
+celebrate successes and I love to do that publically.  I actually think that most
 Engineers really like the admiration of their peers.  That's why many contribute to open
 source.  Showcasing what people build is incredibly powerful.
 
@@ -200,8 +200,8 @@ awards and the ship won some major awards for things I cannot talk about.  Sorry
 got to work with Woods Hole Oceanographic Institute (WHOI) on the Research Vessel Atlantis.
 We carried the mini-submarine Alvin.  That was a really fun job.
 
-I've had the pleasure of writing code and building systems and teams across several generations of technology.  
-The more it changes the more it stays the same.  It's still what I want to do every day.  If you really 
+I've had the pleasure of writing code and building systems and teams across several generations 
+of technology.  The more it changes the more it stays the same.  It's still what I want to do every day.  If you really 
 are interested in all that I've done you should check out my [LinkedIn profile](https://www.linkedin.com/in/gherlein/).
 
 
