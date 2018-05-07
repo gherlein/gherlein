@@ -9,7 +9,7 @@ on me personally.
 My name is Greg Herlein.  I am an Engineering Leader and Maker based in San Francisco California.  
 I am active on [LinkedIn](https://www.linkedin.com/in/gherlein/) and sometimes on 
 [Twitter](https://twitter.com/gherlein).  I keep my open source work on 
-[Github](https://github.com/gherlein).  I've been active on the Internet since before dialup. 
+[Github](https://github.com/gherlein). 
 
 I'm a linux enthusiast and have been since before the 1.0 kernel.  I've contributed some
 small things to the linux kernel, including co-designing the Linux Telephony API (which
@@ -78,12 +78,11 @@ just to ask questions. I promise that I don't bite.
 I use a lot of async communication (especially email) because I can multi-task well 
 (mostly) and my life often has more meetings than I wish I had.  Some people like this.Some  
 need more face to face time with me.  Speak up about what you need.  I generally try 
-to do 1:1 meetings for 30 minutes once a week with my direct reports.  I am terrible 
-about this.  I am comfortable with a flexible schedule that changes constantly.  
-This leads me to not be as good as I want to be keeping 1:1 meetings.  Speak up.  Don't 
-let me off the hook.  These times are important to both of us. I don't want these to be
-status meetings.  Please think of things you want to talk about.  I will usually have some
-themes to talk about.
+to do 1:1 meetings for 30 minutes once a week with my direct reports.  I am comfortable with a 
+flexible schedule that changes constantly.  This means our 1:1 schedule may shift around
+a but.  If that does not work for you, speak up.  These times are important to both of us. I 
+don't want these to be status meetings.  Please think of things you want to talk about.  I 
+will usually have some themes to talk about, probably about priorities.
 
 I believe in stack-ranked lists.  Yes, I tend towards kanban as a workflow management tool.  But
 I will use whatever works.  Often the best approach depends on the team and their dynamics.
@@ -134,7 +133,7 @@ Engineers really like the admiration of their peers.  That's why many contribute
 source.  Showcasing what people build is incredibly powerful.
 
 
-### Most Important Traits for My Team
+### Traits I Consider Most Important
 
 Judgement.  Hands down.  We assume a certain level of intelligence in Engineers.  Skills can
 be acquired.  Knowledge can be gained.  Judgement is something you have, or you don't have.
@@ -151,6 +150,11 @@ After that comes being a maker.  Makers make things.  It does not have to be sof
 might be sewing.  Or metalsmithing.  Or pottery.  Or robots.  Or cooking.  Or poetry. Make 
 something.  In my experience the best Engineers create things.  It's a trait that 
 goes well beyond fingers on keyboard with an open editor.
+
+One thing that does not work for me is a sense of "that isn't my job."  There's no "I" in team, 
+as they say, and sometimes everyone has to do things they don't like.  I try to align
+the work to the skills and desires, but a highly functioning team is one where everyone
+pitches in and gets it done.
 
 
 ## My Personality - Real and Apparent
@@ -196,8 +200,8 @@ awards and the ship won some major awards for things I cannot talk about.  Sorry
 got to work with Woods Hole Oceanographic Institute (WHOI) on the Research Vessel Atlantis.
 We carried the mini-submarine Alvin.  That was a really fun job.
 
-I've gotten to write code and build systems and teams across several generations of technology.  
-The more it changes the more it stays the same.  If you really are interested in all that I've
-done you should check out my [LinkedIn profile](https://www.linkedin.com/in/gherlein/).
+I've had the pleasure of writing code and building systems and teams across several generations of technology.  
+The more it changes the more it stays the same.  It's still what I want to do every day.  If you really 
+are interested in all that I've done you should check out my [LinkedIn profile](https://www.linkedin.com/in/gherlein/).
 
 
