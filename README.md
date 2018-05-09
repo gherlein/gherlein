@@ -25,6 +25,9 @@ across the world and we build and operate the software systems that Cisco uses t
 products and offer professional services.  We are transitioning years of older software towards
 modern containerized microservices managed in kubernetes (k8s).  
 
+I manage a small team of Architects and indirectly manage all the Senior Architects in our
+group.  I also manage a team of Site Reliability Engineers (SRE).  These folks are "player coaches" 
+who treat Ops problems as software problems.  We aim to help automate everything our group does.
 
 ## My Management Style
 
@@ -178,7 +181,7 @@ just know that I ran out of gas and needed some alone time to recharge.  Sorry.
 Even though I am an introvert I've learned that I learn so much from spending time with 
 smart people.  I love to hang out with my teams, especially teams from former companies
 who still get together often.  Customers and partners too.  It takes energy, but learning is
-fun.  And so worth it.
+fun.  And so worth it.  I trade energy for learning, anytime.
 
 
 ## My Interests and Projects
@@ -204,7 +207,9 @@ Navy and served in Submarines.  I was on the USS Richard B. Russell (SSN-687).  
 awards and the ship won some major awards for things I cannot talk about.  Sorry.  I also
 got to work with Woods Hole Oceanographic Institute (WHOI) on the Research Vessel Atlantis.
 We carried the mini-submarine Alvin.  That was a really fun job.  And I got to ship some really nice
-software with teams I'm really proud to have been a part of.  I like that.
+software with teams I'm really proud to have been a part of.  I like that.  Managing at my level means
+I don't get to do code on a regular basis.  I don't like that.  That's why I do side projects.  I
+can't imagine not coding.
 
 I've had the pleasure of writing code and building systems and teams across several generations 
 of technology.  The more it changes the more it stays the same.  It's still what I want to do every day.  If you really 
