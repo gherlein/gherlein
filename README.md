@@ -190,7 +190,8 @@ fun.  And so worth it.  I trade energy for learning, anytime.
 I do geeky stuff on my own time.  I build little robots.  I write code.  I design electronic 
 circuits.  I do home repair on my very old house.  
 
-I'm an [emacs](https://github.com/gherlein/elisp) guy. Sorry if you're a vi person. I'm learning 
+I'm an [emacs](https://github.com/gherlein/elisp) guy. Sorry if you're a vi person. My favorite language 
+to code in is C.  It's got a purity I cannot stop loving.  I'm learning 
 golang.  I recently wrote a network use visualization tool called [gonetmon](https://github.com/gherlein/gonetmon)
 that works with prometheus and a CLI tool to lookup MAC address vendors called 
 [ouilookup](https://github.com/gherlein/ouilookup).  I'm working on a robotics project that uses
