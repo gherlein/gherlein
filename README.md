@@ -118,8 +118,9 @@ more than skin color or sex.  It also means age, culture, socioeconomic backgrou
 team of about the same age all from the same college may LOOK diverse but might not 
 be.  Note that I am especially looking to increase the number of qualified female Engineers on
 my teams.  This is not just because it's the right thing to do (it is) but because in my 
-years of experience teams with women get more done and are happier than teams without.  It's 
-good business.  And it's the right thing to do.  I have a daughter.  I've seen how biases 
+years of experience teams with women get more done and are happier than teams without.  Somehow
+those teams communicate better, understand better, work together better.  It's good business.  And 
+it's the right thing to do.  I have a daughter.  I've seen how biases 
 work against girls in the educational system.  I've seen it in the workplace.  I do all I can
 to be a positive force for change.
 
