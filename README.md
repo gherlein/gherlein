@@ -195,9 +195,10 @@ to code in is C.  It's got a purity I cannot stop loving.  I'm learning
 golang.  I recently wrote a network use visualization tool called [gonetmon](https://github.com/gherlein/gonetmon)
 that works with prometheus and a CLI tool to lookup MAC address vendors called 
 [ouilookup](https://github.com/gherlein/ouilookup).  I'm working on a robotics project that uses
-MQTT but it's not done.  [goxb_mqtt](https://github.com/gherlein/goxb_mqtt) [2](https://github.com/gherlein/rbot_mctl)
-[3](https://github.com/gherlein/pi-blaster-mqtt).  I've also been playing with some low cost radios
-[4](https://github.com/gherlein/libnrf24lu1p).  
+MQTT but it's not done.  It uses an XBox(tm) controller [module](https://github.com/gherlein/goxb_mqtt) and 
+[controller](https://github.com/gherlein/rbot_mctl) and 
+[a forked version of pi-blaster]](https://github.com/gherlein/pi-blaster-mqtt).  
+I've also been playing with some low cost [radios](https://github.com/gherlein/libnrf24lu1p).  
 
 I'm better at starting projects than finishing them.  I have a dozen mostly done things on
 my workbench at any given time.  This is because I get the value out of LEARNING by doing,
