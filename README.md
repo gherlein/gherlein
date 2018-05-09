@@ -190,6 +190,14 @@ fun.  And so worth it.  I trade energy for learning, anytime.
 I do geeky stuff on my own time.  I build little robots.  I write code.  I design electronic 
 circuits.  I do home repair on my very old house.  
 
+I'm an [emacs](https://github.com/gherlein/elisp) guy. Sorry if you're a vi person. I'm learning 
+golang.  I recently wrote a network use visualization tool called [gonetmon](https://github.com/gherlein/gonetmon)
+that works with prometheus and a CLI tool to lookup MAC address vendors called 
+[ouilookup](https://github.com/gherlein/ouilookup).  I'm working on a robotics project that uses
+MQTT but it's not done.  [goxb_mqtt](https://github.com/gherlein/goxb_mqtt) [2](https://github.com/gherlein/rbot_mctl)
+[3](https://github.com/gherlein/pi-blaster-mqtt).  I've also been playing with some low cost radios
+[4](https://github.com/gherlein/libnrf24lu1p).  
+
 I'm better at starting projects than finishing them.  I have a dozen mostly done things on
 my workbench at any given time.  This is because I get the value out of LEARNING by doing,
 not out of FINISHING things and then using them.  This is not universally true, but 
@@ -216,4 +224,8 @@ I've had the pleasure of writing code and building systems and teams across seve
 of technology.  The more it changes the more it stays the same.  It's still what I want to do every day.  If you really 
 are interested in all that I've done you should check out my [LinkedIn profile](https://www.linkedin.com/in/gherlein/).
 
+## License
+
+Seems silly, but this document is Copyright (c) 2018 Gregory C Herlein and released under the 
+[MIT License](https://gherlein.mit-license.org/)
 
