@@ -169,7 +169,7 @@ pitches in and gets it done.  The most important thing is to "ship it."
 ## My Personality - Real and Apparent
 
 I am told I come across as an extrovert.  Nothing could be farther from the truth.  I am 
-a died in the wool introvert.  I love to work alone, curl up with a good book or cuddle on the
+very much an introvert.  I love to work alone, curl up with a good book or cuddle on the
 couch with my wife and watch a good movie.  I generally don't like to go out, or to parties, or even
 walk down a crowded street.
 
