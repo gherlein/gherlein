@@ -91,7 +91,7 @@ I believe in stack-ranked lists.  Yes, I tend towards kanban as a workflow manag
 I will use whatever works.  Often the best approach depends on the team and their dynamics.
 But regardless of tool/methodology/approach I strongly believe in knowing your priorities.  I
 borrowed a tool from Rackspace (where I worked for a while) called the "3P Reports" and 
-added Priorities and call it the "4P Report."  The P's are Priorites, Progress, Plans, and
+added Priorities and call it the "4P Report."  The P's are Priorities, Progress, Plans, and
 Problems.  These are usually one liners.  Plans should map to Priorities and Progress should
 map to last week's Plans.  Problems are not excuses for failing to meet your Plans - they 
 are things that you need help with.  These are public.  My whole team can see everyone elses
