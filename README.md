@@ -197,7 +197,7 @@ that works with prometheus and a CLI tool to lookup MAC address vendors called
 [ouilookup](https://github.com/gherlein/ouilookup).  I'm working on a robotics project that uses
 MQTT but it's not done.  It uses an XBox(tm) controller [module](https://github.com/gherlein/goxb_mqtt) and 
 [controller](https://github.com/gherlein/rbot_mctl) and 
-[a forked version of pi-blaster]](https://github.com/gherlein/pi-blaster-mqtt).  I've also been playing 
+a forked version of [pi-blaster](https://github.com/gherlein/pi-blaster-mqtt).  I've also been playing 
 with some low cost [radios](https://github.com/gherlein/libnrf24lu1p).  
 
 I'm better at starting projects than finishing them.  I have a dozen mostly done things on
